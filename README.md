@@ -6,7 +6,7 @@ A custom arbitrary-precision integer class in C++ developed for learning and pra
 
 
 
-\## 🚀 Features
+\## Features
 
 
 
@@ -24,7 +24,7 @@ A custom arbitrary-precision integer class in C++ developed for learning and pra
 
 
 
-\## 💻 Usage Example
+\## Usage Example
 
 
 
